@@ -2,6 +2,8 @@
 
 I am the graphic designer and frontend developer for a web development & marketing company in Cleveland, OH. Before that I worked as the senior graphic designer for about a year and a half at Cleveland State University's Campus Recreation Services. I have gained lots of experience in the professional setting, but I'm always interested in broadening my experience and skill set with new opportunities.
 
+To be able to furture my development career I decided to enroll in Coding Dojo's bootcamp. Currently working my way through MongoDB, Express, React, and Node.
+
 <!--
 **c-uliano/c-uliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
