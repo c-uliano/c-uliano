@@ -1,4 +1,4 @@
-# Hi everyone, you can call me Colette
+# Hello all, you can call me Colette
 
 I am a graphic designer and frontend developer for a web development and marketing company in Cleveland, OH. Before that I worked as the senior graphic designer at Cleveland State University's Campus Recreation Services. I've gained lots of experience in the professional setting, but I'm always interested in broadening my experience and skill set with new opportunities.
 
