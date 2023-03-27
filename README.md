@@ -1,8 +1,8 @@
 # Hello all, you can call me Colette
 
-I am a graphic designer and frontend developer for a web development and marketing company in Cleveland, OH. Before that I worked as the senior graphic designer at Cleveland State University's Campus Recreation Services. I've gained lots of experience in the professional setting, but I'm always interested in broadening my experience and skill set with new opportunities.
+Currently I'm a frontend web app developer for a cyber security firm. Before that I was a graphic designer and frontend developer for 8 years for a web development and marketing company. I started my career at Cleveland State University's Campus Recreation Services as a graphic designer, working my up over 2 years to become the senior graphic designer. I've gained lots of experience in the professional setting, but I'm always interested in broadening my experience and skill set with new opportunities.
 
-To be able to further my development career I decided to enroll in Coding Dojo's bootcamp. Currently working my way through Python (MySQL, Flask, Ajax, APIs, JQuery) and MERN (MongoDB, Express, React, Node.js, NPM, Socket.IO)
+To be able to further my development career I decided to enroll in Coding Dojo's bootcamp. Currently working my way through Python (MySQL, Flask, Ajax, APIs, JQuery) and MERN (MongoDB, Express, React, Node.js, NPM)
 
 <!--
 **c-uliano/c-uliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
