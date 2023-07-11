@@ -1,6 +1,10 @@
 # Hello all, you can call me Colette
 
-Currently I'm a frontend web app developer for a cyber security firm. Before that I was a graphic designer and frontend developer for 8 years for a web development and marketing company. I started my career at Cleveland State University's Campus Recreation Services as a graphic designer, working my up over 2 years to become the senior graphic designer. I've gained lots of experience in the professional setting, but I'm always interested in broadening my experience and skill set with new opportunities.
+Currently I'm a frontend web app developer for a cyber security firm. I work up the UX/UI and mockup layouts that are used as the guidelines for myself and the other developers. 
+
+Before that I was a graphic designer and frontend developer for 8 years for a web development and marketing company. Half of the time I designed and built custom websites using the company's custom-built CMS and frontend framework. The rest of the time I designed logos, brand identities, and extensive digital/print marketing materials.
+
+I started my career at Cleveland State University's Campus Recreation Services as a graphic designer, working my up over 2 years to become the senior graphic designer. I've gained lots of experience in the professional setting, but I'm always interested in broadening my experience and skill set with new opportunities.
 
 To be able to further my development career I decided to enroll in Coding Dojo's bootcamp. I worked my way through Python (MySQL, Flask, Ajax, APIs, JQuery) and MERN (MongoDB, Express, React, Node.js, NPM).
 
